@@ -132,8 +132,6 @@ DL_movement_detection/
 │
 ├── People_movement_detection.ipynb
 ├── people_flow_output.mp4
-├── final_heatmap.png
-├── heatmap_overlay.png
 └── README.md
 ```
 
