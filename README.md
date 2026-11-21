@@ -115,16 +115,6 @@ The project generates the following outputs:
  `final_heatmap.png`                    People movement heatmap 
  `heatmap_overlay.png`                  Heatmap overlay on the original video 
 
-### Processed Video
-
-[▶ View People Detection & Tracking Output](people_flow_output.mp4)
-
-### Heatmap Visualizations
-
-![People Movement Heatmap](final_heatmap.png)
-
-![People Flow Heatmap Overlay](heatmap_overlay.png)
-
 ## 📂 Repository Structure
 
 ```text
