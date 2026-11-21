@@ -99,9 +99,12 @@ The process includes:
 3. Normalizing the accumulated values.
 4. Applying the JET color map.
 5. Overlaying the heatmap on the first frame of the original video.
+Input Video
+
+The original video used for detection and tracking:
+people-walking.mp4
 
 Two heatmap outputs are generated:
-
 - `Final_heatmap.png` – Colorized movement heatmap.
 - `heatmap_overlay.png` – Heatmap overlaid on the original video frame.
 
